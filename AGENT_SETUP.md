@@ -1,3 +1,5 @@
+<img src="Snowflake_Logo.svg" width="200">
+
 # U-Haul Intelligence Agent Setup Guide
 
 This guide walks you through configuring a Snowflake Intelligence Agent to interact with the U-Haul demo data using natural language queries.
