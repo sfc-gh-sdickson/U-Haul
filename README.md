@@ -1,3 +1,5 @@
+<img src="Snowflake_Logo.svg" width="200">
+
 # Snowflake Intelligence Demo: U-Haul Operations
 
 This repository contains a comprehensive, end-to-end demo showcasing Snowflake Intelligence with natural language queries over synthetic U-Haul rental operations data. The demo enables business users to ask questions about fleet management, rental operations, customer insights, and revenue analytics using conversational AI.
